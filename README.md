@@ -54,9 +54,9 @@
 
 **Task 19:** `append()` yordamida ro‘yxatga yangi ism qo‘shing.
 
-**Task 20:** `insert()` yordamida ro‘yxat boshiga son qo‘shing.
 
-**Task 21:** `remove()` yordamida ro‘yxatdan ism o‘chiring.
+
+**Task 21:**Task 20:** `insert()` yordamida ro‘yxat boshiga son qo‘shing.** `remove()` yordamida ro‘yxatdan ism o‘chiring.
 
 **Task 22:** `pop()` bilan oxirgi elementni olib tashlang.
 
@@ -102,9 +102,9 @@ Ro‘yxatda eng ko‘p takrorlangan elementni toping (bir nechta bo‘lsa, birin
 **🔷 Task 32: So‘z uzunligi bo‘yicha filter**
 
 Foydalanuvchi so‘zlar ro‘yxatini kiritadi. Shu ro‘yxatdan faqat uzunligi 5 dan katta bo‘lgan so‘zlarni yangi ro‘yxatga yozing.
-*Misol:* `["kitob", "dastur", "AI", "hello", "python"]` → `["dastur", "python"]`
+*Misol:* `["kitob", "dastur", "AI", "hello", "python"` → `["dastur", "python"]`
 
----
+--
 
 **🔷 Task 33: To‘plamlar kesishmasi (intersection)**
 

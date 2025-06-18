@@ -1,0 +1,1 @@
+people = ["ali","vali","abduvali"["19","23","25"]]
